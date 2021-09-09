@@ -1,2 +1,2 @@
 # WEB-KK-IS
-Web management in one repo
+Web management of KK Intelligence Telkom University in one repo
